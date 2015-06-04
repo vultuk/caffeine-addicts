@@ -1,0 +1,9 @@
+[submodule "contribution-guide"]
+	path = contribution-guide
+	url = git@github.com:vultuk/contribution-guide.git
+[submodule "portal"]
+	path = portal
+	url = git@github.com:vultuk/portal.git
+[submodule "port"]
+	path = port
+	url = git@github.com:vultuk/port.git
