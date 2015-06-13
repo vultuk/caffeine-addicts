@@ -7,3 +7,6 @@
 [submodule "port"]
 	path = port
 	url = git@github.com:vultuk/port.git
+[submodule "store"]
+	path = store
+	url = git@github.com:vultuk/store.git
